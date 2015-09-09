@@ -1,6 +1,7 @@
 {
   "name": "arial-geo-bolditalic",
-  "description": "Arial GEO BoldItalic Web Font",
+  "description": "Arial GEO BoldItalic Web-Font Package",
+  "version": "1.0.0",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "arial-geo-bolditalic"],
   "main": [
     "css/arial-geo-bolditalic.css"
@@ -13,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/web-fonts/arial-geo-bolditalic.git"
   },
-  "license": "MIT",
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
   "ignore": [
     "**/.*",
     "node_modules",
